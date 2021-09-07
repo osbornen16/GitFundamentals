@@ -2,7 +2,7 @@
 
 When changes have been made inside a git repository that you want to keep, you'll need to use the `git add` command.
 
-Items that have no been "tracked" before wills tart to be tracked and all other changes will be marked as odified.
+Items that have not been "tracked" before will start to be tracked and all other changes will be marked as modified.
 
 Generally, you can get away with the command `git add .` which will add ALL filed and directories that were added, changed, or deleted.
 
